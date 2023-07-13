@@ -12,6 +12,12 @@
 
 이번 대회에 참여하여 생성형 AI 가 만들어낸 새로운 시대에서 발생할 수 있는 사회적 문제를 고민해보고, 내가 가진 머신 러닝 기술력으로 문제를 해결해보세요!
 
+### 평가지표
+
+- macro f1 score
+
+	- $F1 score = 2 * \frac{Precision * Recall}{Precision + Recall}$
+
 ---
 #### 프로젝트 구조
 	
