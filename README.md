@@ -49,9 +49,9 @@
 
 |이름|닉네임|프로필|
 |:--|:---|:-----|
-|차형석|hsmaro||
+|차형석|hsmaro|https://github.com/hsmaro|
 |김동하|Eastha0526|https://github.com/Eastha0526|
-|권경민|km0228kr||
+|권경민|km0228kr|https://github.com/km0228kr|
 
 ---
 
