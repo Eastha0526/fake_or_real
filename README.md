@@ -128,13 +128,14 @@
 - 사용데이터
 	- https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces
 - 실제로 훈련 데이터의 수를 증가 시킨 결과 f1_score의 경우 0.82 에서 최종 0.86까지 상승하는 것을 확인할 수 있었다.
-
+---
 # 최종 결과 
 
 - ![image](https://github.com/Eastha0526/fake_or_real/assets/110336043/577002ac-2ec3-412a-ab68-2a23fabf02fe)
 
 - 115팀의 참가팀 중 최종 순위 21등 (상위 18%)
-
-# 배운점
+  
+---
+# 느낀점
 
 - 
