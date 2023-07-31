@@ -132,8 +132,6 @@
 ---
 # 최종 결과 
 
-- ![image](https://github.com/Eastha0526/fake_or_real/assets/110336043/577002ac-2ec3-412a-ab68-2a23fabf02fe)
-
 - 115팀의 참가팀 중 최종 순위 21등 (상위 18%)
   
 ---
